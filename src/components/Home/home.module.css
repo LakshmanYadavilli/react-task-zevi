@@ -1,0 +1,22 @@
+.body {
+  padding: 20px;
+}
+.searchContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid grey;
+  border-radius: 10px;
+  width: 30%;
+  height: 30px;
+  margin-left: 35%;
+}
+.searchInput {
+  border: none;
+  outline: none;
+  width: 90%;
+}
+
+.searchIcon {
+  font-size: larger;
+}
